@@ -1,9 +1,0 @@
-# 빌드 산출물 (Zephyr / nRF Connect SDK)
-build/
-
-# 대용량 문서 (로컬에만 보관)
-*.pdf
-*.docx
-
-# 에디터
-.vscode/
